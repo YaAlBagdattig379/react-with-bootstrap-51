@@ -9,7 +9,6 @@ const CardGroup2 = () => {
       ]
     return (
         <div>
-             {/* <h2>this is normal card group</h2> */}
             <CardGroup>
             {
                 products.map(product => <Card2 
